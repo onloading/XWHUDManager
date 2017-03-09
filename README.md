@@ -1,5 +1,8 @@
 # XWHUDManager
 
+<br>演示效果</br>
+![](https://github.com/qxuewei/XWHUDManager/raw/master/gif.gif)  
+
 ##pragma mark - 隐藏HUD
 /// 隐藏蒙版
 + (void)hide;
